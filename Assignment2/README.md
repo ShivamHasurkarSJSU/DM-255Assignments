@@ -12,6 +12,13 @@ This repository contains the code for a simple Tic-Tac-Toe game implemented usin
 3. Score tracking for each player.
 4. Option to play again without restarting the application.
 
+**ScreenShot**
+![image](https://github.com/ShivamHasurkarSJSU/DM-255Assignments/assets/143695709/5231ec41-70ce-4bce-82a5-39df18ec4a02)
+
+![image](https://github.com/ShivamHasurkarSJSU/DM-255Assignments/assets/143695709/f8bd24ee-7a35-45a0-a850-55132bae4bb0)
+
+
+
 **Installation and Setup**
 1. Clone the repository or download the code.
 2. Make sure you have Python installed on your system.
