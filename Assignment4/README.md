@@ -52,3 +52,7 @@ PART 2
 
 1. Pandas Profiling with Netflix movies dataset - https://colab.research.google.com/drive/1L9nNklcY1Adjyk3msGmzds8gkjgi-k7o?usp=sharing
 2. Sweetviz with university ranking dataset - https://colab.research.google.com/drive/1Sch90M5CFn4XOGoFKH0eFZaJ4MTzfpU-?usp=sharing
+
+PART 3
+
+Link - https://colab.research.google.com/drive/1rOsqIl47uy0QD4DGBGExbo5GxBm9SFbo?usp=sharing
