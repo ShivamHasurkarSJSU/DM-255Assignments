@@ -1,3 +1,6 @@
+PART 1 
+Complete EDA with Michelin star restaurants - https://colab.research.google.com/drive/1xNj50-WOcjwqZMUzqiEsztuBlz64hB1x?usp=sharing
+
 What is EDA?
 
 Exploratory Data Analysis (EDA) is the initial step in your data analysis process. The primary objective of EDA is to analyze the data for distribution, trends, outliers, and anomalies to inform the modeling strategy and the hypotheses generation process. In simpler terms, EDA helps to understand the data better, which eventually aids in deriving meaningful insights.
@@ -43,3 +46,9 @@ This map offers a comparative view of Michelin stars against the price range of 
 Description:
 This map showcases the most popular cuisines in cities with Michelin-starred restaurants. Each city is colored based on its most prevalent cuisine, offering a gastronomic tour of favored culinary traditions worldwide.
 ![Alt text](images/image-5.png)
+
+
+PART 2
+
+1. Pandas Profiling with Netflix movies dataset - https://colab.research.google.com/drive/1L9nNklcY1Adjyk3msGmzds8gkjgi-k7o?usp=sharing
+2. Sweetviz with university ranking dataset - https://colab.research.google.com/drive/1Sch90M5CFn4XOGoFKH0eFZaJ4MTzfpU-?usp=sharing
