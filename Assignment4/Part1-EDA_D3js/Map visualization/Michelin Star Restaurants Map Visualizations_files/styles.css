@@ -1,0 +1,28 @@
+/* Basic styles will be added here */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+path {
+    cursor: pointer;
+}
+
+circle {
+    cursor: pointer;
+}
+
+circle:hover {
+    opacity: 1;
+}
+
+svg {
+    display: block;
+    margin: 0 auto;
+}
+
+.divider {
+    height: 2px;
+    background-color: #000000;
+    margin: 20px 0;
+}
