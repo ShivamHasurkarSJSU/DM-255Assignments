@@ -1,4 +1,4 @@
-Towards reducing hallucination in extracting information from financial reports using Large Language Models
+**Video Demonstration on Paper titled "Towards reducing hallucination in extracting information from financial reports using Large Language Models"**
 
 [Link for paper](https://arxiv.org/abs/2310.10760)
 
