@@ -3,7 +3,7 @@ Clustering Assignment
 
 Contents
 
-a) K-Means Clustering from Scratch - [Link](https://colab.research.google.com/drive/1lgDcRfpZTwhJLRKrhi0ET8LXQQXWOnuI?usp=sharing)
+a) K-Means Clustering from Scratch - [Link](https://colab.research.google.com/drive/1BIgzyRqLHwJW-HhEVpOHN1hScgePPZ2O?usp=sharing)
 
 b) Hierarchical Clustering - [Link](https://colab.research.google.com/drive/1lgDcRfpZTwhJLRKrhi0ET8LXQQXWOnuI?usp=sharing)
 
