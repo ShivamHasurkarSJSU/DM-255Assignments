@@ -1,7 +1,6 @@
 Assignment 6
-Clustering Assignment
 
-Contents
+Clustering 
 
 a) K-Means Clustering from Scratch - [Link](https://colab.research.google.com/drive/1BIgzyRqLHwJW-HhEVpOHN1hScgePPZ2O?usp=sharing)
 
